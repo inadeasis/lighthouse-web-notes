@@ -2,4 +2,4 @@
 
 ## Summary
 
-This repository contains all of the notes taken by Ina for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Ina](https://github.com/inadeasis) for the Lighthouse Labs Web Development Bootcamp.
